@@ -533,5 +533,5 @@ INSERT INTO payment VALUES (1577, 'wallet', 15, 5015, 901202, TO_DATE('2023-10-2
 
 # Contributors
 ## Smriti Singh
-##Ridhhi Sekhri
+## Ridhhi Sekhri
 ## Kashika Chopra
